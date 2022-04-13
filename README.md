@@ -1,4 +1,4 @@
-# WordPress-Deployment-using-Multi-Container1
+# WordPress-Deployment-using-Multi-Containers
 
 Installing wordpress in Nginx using Docker-compose
 
